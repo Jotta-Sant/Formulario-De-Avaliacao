@@ -1,4 +1,4 @@
-# Formulário de Avaliação de Evento
+# Formulário de Avaliação
 
 Este é um formulário de avaliação que permite que usuários enviem suas respostas a uma série de perguntas sobre um evento, com validação de entrada e inserção dos dados em um banco de dados MySQL.
 
